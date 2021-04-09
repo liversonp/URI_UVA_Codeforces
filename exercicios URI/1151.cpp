@@ -1,7 +1,5 @@
 #include <iostream>
  
-using namespace std;
- 
 int main() {
     int N,prim,seg,prox, i;
     prim = 0;
