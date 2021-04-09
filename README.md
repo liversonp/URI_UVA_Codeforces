@@ -1,1 +1,1 @@
-# minimum
+# Aqui são feitos exercícios do URI, UVA e Codeforces
